@@ -1,9 +1,11 @@
 ---
-title: Chicago - Las Vegas
----
+layout: "post"
+title: Las vegas
+date: 2018-03-22 12:00:00 +/-0700
 
-Road trip Chicago - Las Vegas
-Jan 30, 2018, 10:36 AM
+---
+![image-title-here](/images/las_vegas_welcome.jpg){:class="img-responsive"}
+
 
 Doing an RV road trip from Chicago to Las Vegas at the end of february, beginning of march.
 
@@ -14,3 +16,5 @@ I've read several posts on here and other websites looking for tips and advice. 
 for example, i'd love to see the cadilac ranch, but also the arches of bryce canyon.
 
 Any and all tips are welcome. We're not in a hurry, the journey is the destination.
+
+![image-title-here](/images/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg){:class="img-responsive"}
