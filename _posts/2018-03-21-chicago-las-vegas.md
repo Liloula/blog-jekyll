@@ -7,14 +7,18 @@ date: 2018-03-22 12:00:00 +/-0700
 ![image-title-here](/images/las_vegas_welcome.jpg){:class="img-responsive"}
 
 
-Doing an RV road trip from Chicago to Las Vegas at the end of february, beginning of march.
+Las Vegas, dans le désert de Mojave dans le Nevada, est une ville réputée pour sa vie nocturne animée, ses casinos ouverts 24 h/24 et autres divertissements. Le point central de la ville correspond à sa rue principale, The Strip, longue d'un peu plus de 4 miles. Ce boulevard abrite des hôtels à thème et des créations élaborées comme les fontaines synchronisées avec la musique ainsi que des répliques de monuments connus : pyramide égyptienne, Grand Canal de Venise, et Tour Eiffel.
 
-We have about 14 days to get to Vegas (should be plenty of time i think) but haven't really decided on the route.
+État : Nevada
 
-I've read several posts on here and other websites looking for tips and advice. So the real question may be, which route offers the most cool sights, including, but not limited to nature and cultural spots.
+Comté : Clark
 
-for example, i'd love to see the cadilac ranch, but also the arches of bryce canyon.
+Météo : 16 °C, vent SO à 6 km/h, 80 % d'humidité
 
-Any and all tips are welcome. We're not in a hurry, the journey is the destination.
+Coordonnées : 36° 10′ 09″ nord, 115° 08′ 41″ ouest
+
+Maire : Carolyn Goodman (D)
+
+Vol de 13 h 45 min, à partir de 1 046 €
 
 ![image-title-here](/images/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg){:class="img-responsive"}

@@ -28,7 +28,12 @@ body {
   font-kerning: normal;
 }
 
-
+.site-title{
+    color: #fff !important;
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    background-size: 60px;
+  }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
