@@ -6,7 +6,9 @@ date: 2018-03-22 12:00:00 +/-0700
 ---
 {{ content }}
 
-![img:src="/images/horseshoe-bend-arizona.jpg](/images/horseshoe-bend-arizona.jpg){:class="img-responsive"}
+
+![image-title-here]({{ "/images/horseshoe-bend-arizona.jpg" | absolute_url }})
+
 
 L'Arizona, un État du sud-ouest des États-Unis, est célèbre pour son Grand Canyon, un gouffre d'1 mi de profondeur creusé par l'érosion du fleuve Colorado. Flagstaff, une ville de montagne recouverte de pins à bois dur, est une porte d'accès majeure vers le Grand Canyon. Parmi les autres sites naturels figure le parc national de Saguaro, qui préserve le paysage du désert de Sonora, pourvu de nombreux cactus. Territoire de l'université d'Arizona, Tucson comporte l'Arizona-Sonora Desert Museum.
 

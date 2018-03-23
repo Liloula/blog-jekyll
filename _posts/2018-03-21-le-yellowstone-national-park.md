@@ -4,7 +4,7 @@ title: Yellowstone
 date: 2018-03-22 12:00:00 +/-0700
 
 ---
-![image-title-here](/images/image.jpg){:class="img-responsive"}
+![image-title-here]({{ "/images/image.jpg" | absolute_url }})
 
 Vous prévoyez de partir aux Etats-Unis pour votre prochain voyage et de passer par le parc de Yellowstone? Quelle bonne idée, vous allez en prendre plein les yeux! A cheval entre le Wyoming, l'Idaho et le Montana, ce bijou de la nature est LE parc national à visiter aux Etats-Unis.
 
@@ -23,4 +23,4 @@ Ville proche : Billings (Montana)
 Nom local : (en) Yellowstone National Park
 
 
-![image-title-here](/images/Yellowstone_National_Park_001.jpg){:class="img-responsive"}
+![image-title-here]({{ "/images/Yellowstone_National_Park_001.jpg" | absolute_url }})
