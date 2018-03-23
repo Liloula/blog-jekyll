@@ -20,4 +20,5 @@ Coordonnées : 31°20' N à 37° N (500 km); 109°03' W à 114°50' W (645 km)
 
 Vol de 13 h 50 min
 
-![image-title-here](/images/636240645271644429-desesrt-sunset.jpg){:class="img-responsive"}
+
+![image-title-here]({{ "/images/636240645271644429-desesrt-sunset.jpg" | absolute_url }})
