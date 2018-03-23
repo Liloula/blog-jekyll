@@ -4,7 +4,7 @@ title: Arizona
 date: 2018-03-22 12:00:00 +/-0700
 
 ---
-![useful image]({{ https://liloula.github.io/blog-jekyll/ }}/images/horseshoe-bend-arizona.jpg)
+![useful image]({{ https://github.com/Liloula/blog-jekyll/blob/master/images/horseshoe-bend-arizona.jpg }}/images/horseshoe-bend-arizona.jpg)
 L'Arizona, un État du sud-ouest des États-Unis, est célèbre pour son Grand Canyon, un gouffre d'1 mi de profondeur creusé par l'érosion du fleuve Colorado. Flagstaff, une ville de montagne recouverte de pins à bois dur, est une porte d'accès majeure vers le Grand Canyon. Parmi les autres sites naturels figure le parc national de Saguaro, qui préserve le paysage du désert de Sonora, pourvu de nombreux cactus. Territoire de l'université d'Arizona, Tucson comporte l'Arizona-Sonora Desert Museum.
 
 Capitale : Phoenix
