@@ -1,9 +1,9 @@
 ---
-layout: "post"
 title: Arizona
-date: 2018-03-22 12:00:00 +/-0700
-
+date: 2018-03-22 12:00:00 Z
+layout: post
 ---
+
 {{ content }}
 
 
